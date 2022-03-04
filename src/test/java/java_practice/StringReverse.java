@@ -48,8 +48,6 @@ public class StringReverse {
         }
         return temp;
     }
-//     new update from someone
-//   asdfdf
-    // last
+//clean up
 }
 
