@@ -9,6 +9,10 @@ public class interviewPractice {
         System.out.println(stringReverse.reverse("hello how are you?"));
 
         System.out.println(stringReverse.wordReverse("hello how are you?"));
+
+        System.out.println(stringReverse.wordReverse("Sefa abi nasilsiniz?"));
+
+
     }
 
 
